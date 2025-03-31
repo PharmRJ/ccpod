@@ -407,6 +407,13 @@
 	--button-border:1px solid #212121;
 }
 
+/* PodBean */
+.button-podbean {
+    --button-text: #87bf3c;
+    --button-background: #ffffff;
+    --button-border: 1px solid #000000;
+}
+
 /* Product Hunt */
 .button-product-hunt {
 	--button-text:#000000;
